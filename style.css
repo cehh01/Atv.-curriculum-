@@ -1,0 +1,57 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  padding: 80px;
+  background-color: lightgrey;
+}
+
+.nome {
+  color: #252583;
+  font-family: sans-serif;
+  font-weight: bold;
+  background-color: #babaf2;
+  font-size: 30px;
+  margin-top: 30px;
+  margin-bottom: 0px;
+  margin-left: 30px;
+  margin-right: 30px;
+
+  text-align: center;
+}
+
+.descrição {
+   font-family: sans-serif;
+  text-align: center;
+  font-size: 15px;
+  margin-top: 10px;
+}
+
+.menu {
+  color: #252583;
+  font-family: sans-serif;
+  font-weight: bold;
+  margin-top: 30px;
+  margin-bottom: 0px;
+  margin-left: 30px;
+  margin-right: 30px;
+  font-size: 30px;
+  background-color: #bbc2c9;
+  border-bottom: 2px solid #252583;
+  padding: 10px;
+}
+
+.menutexto {
+  font-family: Arial;
+  font-size: 15px;
+  margin-top: 30px;
+  margin-right: 30px;
+  margin-bottom: 1px;
+  margin-left: 30px;
+  text-align: justify;
+
+}
+
+
